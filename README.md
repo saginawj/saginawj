@@ -1,2 +1,2 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saginawj&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saginawj)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saginawj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
